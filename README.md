@@ -1,9 +1,8 @@
 # Phishing
 
-## Network Security 
+## Network Security - Group-14
 
-### Group-14
-Group Members:
+### Group Members:
 
 ```
 Akash Anand (IIT2019015)                
@@ -29,8 +28,8 @@ Navneet Bhole (IIT2019220)
 `Step 6: Then target user will receive an email and after user login, the admin will receive an email with the target user email and password which user has used for login`
 
 
-Note: Add email address and password in `phishing/setting.py` file.
+*Note: Add email address and password in `phishing/setting.py` file.*
 
-PPT Link: 
+### PPT Link: 
 
-Report Link:
+### Report Link:
