@@ -5,12 +5,14 @@
 ### Group-14
 Group Members:
 
+```
 Akash Anand (IIT2019015)                
 Garvit Suri (IIT2019057)            
 Maitry Jadiya (IIT2019100)
 Garvit Chittora (IIT2019142)          
 Pratyush Pareek (IIT2019184)         
 Navneet Bhole (IIT2019220)
+```
 
 ### Steps to run:
 
